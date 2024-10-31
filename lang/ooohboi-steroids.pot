@@ -1,0 +1,301 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: OoohBoi Steroids for Elementor\n"
+"POT-Creation-Date: 2020-03-07 16:06+0100\n"
+"PO-Revision-Date: 2020-03-07 16:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ooohboi-steroids.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: controls/ooohboi-harakiri.php:59
+msgid "Writing Mode"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:64
+msgid "Vertical LR"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:65
+msgid "Vertical RL"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:66 controls/ooohboi-overlay-underlay.php:129
+#: controls/ooohboi-overlay-underlay.php:549
+msgid "Normal"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:77
+msgid "Flip"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:79 controls/ooohboi-overlay-underlay.php:929
+msgid "Yes"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:80 controls/ooohboi-overlay-underlay.php:930
+msgid "No"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:116 controls/ooohboi-overlaiz.php:56
+#: controls/ooohboi-overlay-underlay.php:162
+#: controls/ooohboi-overlay-underlay.php:409
+#: controls/ooohboi-overlay-underlay.php:582
+#: controls/ooohboi-overlay-underlay.php:829
+msgid "Width"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:120 controls/ooohboi-overlay-underlay.php:364
+#: controls/ooohboi-overlay-underlay.php:391
+#: controls/ooohboi-overlay-underlay.php:784
+#: controls/ooohboi-overlay-underlay.php:811
+msgid "Default"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:121
+msgid "Full Width"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:122
+msgid "Inline"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:123 controls/ooohboi-overlay-underlay.php:395
+#: controls/ooohboi-overlay-underlay.php:815
+msgid "Custom"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:136
+msgid "Custom Width"
+msgstr ""
+
+#: controls/ooohboi-harakiri.php:176
+msgid "Set max-height"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:105 controls/ooohboi-overlay-underlay.php:188
+#: controls/ooohboi-overlay-underlay.php:608
+msgid "Height"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:154
+msgid "Position - X"
+msgstr ""
+
+#: controls/ooohboi-overlaiz.php:203
+msgid "Position - Y"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:80
+msgid "Overlay"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:95
+#: controls/ooohboi-overlay-underlay.php:515
+msgid "Opacity"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:126
+#: controls/ooohboi-overlay-underlay.php:546
+msgid "Blend Mode"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:149
+#: controls/ooohboi-overlay-underlay.php:569
+msgid "Position and Size"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:214
+#: controls/ooohboi-overlay-underlay.php:634
+msgid "Offset Top"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:240
+#: controls/ooohboi-overlay-underlay.php:660
+msgid "Offset Left"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:268
+#: controls/ooohboi-overlay-underlay.php:688
+msgid "Rotate"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:292
+#: controls/ooohboi-overlay-underlay.php:306
+#: controls/ooohboi-overlay-underlay.php:712
+#: controls/ooohboi-overlay-underlay.php:726
+msgid "Border"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:314
+#: controls/ooohboi-overlay-underlay.php:734
+msgid "Border Radius"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:329
+msgid "Overlay Mask"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:345
+#: controls/ooohboi-overlay-underlay.php:765
+msgid "Choose Image Mask"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:346
+#: controls/ooohboi-overlay-underlay.php:766
+#, php-format
+msgid ""
+"NOTE: Image Mask should be black-and-transparent SVG file! Anything that’s "
+"100% black in the image mask with be completely visible, anything that’s "
+"transparent will be completely hidden."
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:360
+#: controls/ooohboi-overlay-underlay.php:780
+msgid "Mask position"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:365
+#: controls/ooohboi-overlay-underlay.php:785
+msgid "Center Center"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:366
+#: controls/ooohboi-overlay-underlay.php:786
+msgid "Center Left"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:367
+#: controls/ooohboi-overlay-underlay.php:787
+msgid "Center Right"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:368
+#: controls/ooohboi-overlay-underlay.php:788
+msgid "Top Center"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:369
+#: controls/ooohboi-overlay-underlay.php:789
+msgid "Top Left"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:370
+#: controls/ooohboi-overlay-underlay.php:790
+msgid "Top Right"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:371
+#: controls/ooohboi-overlay-underlay.php:791
+msgid "Bottom Center"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:372
+#: controls/ooohboi-overlay-underlay.php:792
+msgid "Bottom Left"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:373
+#: controls/ooohboi-overlay-underlay.php:793
+msgid "Bottom Right"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:387
+#: controls/ooohboi-overlay-underlay.php:807
+msgid "Mask size"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:392
+#: controls/ooohboi-overlay-underlay.php:812
+msgid "Auto"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:393
+#: controls/ooohboi-overlay-underlay.php:813
+msgid "Cover"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:394
+#: controls/ooohboi-overlay-underlay.php:814
+msgid "Contain"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:457
+#: controls/ooohboi-overlay-underlay.php:877
+msgid "Mask repeat"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:461
+#: controls/ooohboi-overlay-underlay.php:881
+msgid "No-repeat"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:462
+#: controls/ooohboi-overlay-underlay.php:882
+msgid "Repeat"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:463
+#: controls/ooohboi-overlay-underlay.php:883
+msgid "Repeat-x"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:464
+#: controls/ooohboi-overlay-underlay.php:884
+msgid "Repeat-y"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:481
+#: controls/ooohboi-overlay-underlay.php:901
+msgid "Z-Index"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:499
+msgid "Underlay"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:749
+msgid "Underlay Mask"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:926
+msgid "Get rid of the Horizontal scroller?"
+msgstr ""
+
+#: controls/ooohboi-overlay-underlay.php:927
+msgid ""
+"OoohBoi POOOPART may cause Horizontal Scroller to show up. This is how you "
+"can remove it."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "OoohBoi Steroids for Elementor"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An awesome set of tools, options and settings that expand Elementor "
+"defaults. Instead of creating new Elementor Widgets, these act like an "
+"upgrade of existing options or the self-standing panels."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "OoohBoi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.youtube.com/c/OoohBoi"
+msgstr ""

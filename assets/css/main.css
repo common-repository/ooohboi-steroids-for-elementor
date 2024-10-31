@@ -1,0 +1,21 @@
+/* Default add-on styles. Please note that these might get overwritten by compiler */
+
+.ob-has-background-overlay > .elementor-widget-container {
+	position: relative; 
+}
+.ob-has-background-overlay > .elementor-widget-container:before {
+	content: "";
+	position: absolute;
+	top: -5%;
+	left: -5%;
+	width: 100%;
+	height: 100%;
+}
+.ob-has-background-overlay > .elementor-widget-container:after {
+	content: "";
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	width: 100%;
+	height: 100%;
+}
